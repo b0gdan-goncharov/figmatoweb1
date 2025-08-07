@@ -4,7 +4,7 @@ This project is a responsive landing page converted from a Figma design. It was 
 
 ## 🔗 Live Demo
 
-[View the page on GitHub Pages](https://github.com/b0gdan-goncharov/figmatoweb1.git)
+[View the page on GitHub Pages](https://b0gdan-goncharov.github.io/figmatoweb1/)
 
 ## ✨ Features
 
