@@ -21,4 +21,4 @@ This project is a responsive landing page converted from a Figma design. It was 
 
 ## 🎨 Design Source
 
-[Original design from Figma](https://www.figma.com/design/02GShKlhC8SWPOujnEecq6/Work?node-id=0-1&t=jmoXqC45lr1qVa0t-1).
+[Original design from Figma](https://www.figma.com/design/02GShKlhC8SWPOujnEecq6/Work?node-id=0-1&t=jmoXqC45lr1qVa0t-1)
